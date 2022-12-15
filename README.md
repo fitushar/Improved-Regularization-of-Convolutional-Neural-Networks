@@ -4,7 +4,7 @@ Deep learning has been increasingly used in recent years, leading to state-of-th
 
 In order to combat overfitting during the training process, researchers have introduced regularization techniques. Regularization techniques incorporate changes into the model in order to reduce the generalization error without harming the training error. A performance improvement can be expected if the regularization technique is chosen carefully. Commonly regularization techniques include dataset augmentation, layer dropout, and weight penalty regularization (L1- or L2-based). Each technique uses a different approach to increase generalizability of the model. Recently, several novel regularization techniques have been introduced to further combat the overfitting issue in large-sized models. In this study, we aim to evaluate the effectiveness of three novel augmentation techniques, namely cutout regularization [5], mixup regularization [6], and self-supervised rotation predictor [7], [8]. The following section discusses the related work.
 
-
+<img src="https://github.com/fitushar/Improved-Regularization-of-Convolutional-Neural-Networks/blob/main/poster.jpg"  width="100%" height="100%">
 
 
 
