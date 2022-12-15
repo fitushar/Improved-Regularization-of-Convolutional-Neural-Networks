@@ -11,3 +11,6 @@ In order to combat overfitting during the training process, researchers have int
 * Corrupted CIFAR10: https://github.com/tanimutomo/cifar10-c-eval 
 * Mixup: https://github.com/facebookresearch/mixup-cifar10
 * Auxialiary rotation loss: https://github.com/hendrycks/ss-ood
+
+
+# Citation
